@@ -1,0 +1,5 @@
+-r requirements.txt
+SQLAlchemy
+psycopg2-binary
+pyodbc
+python-dotenv
